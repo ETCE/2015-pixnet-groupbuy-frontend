@@ -1,1 +1,3 @@
 # 2015-pixnet-groupbuy-frontend
+This repository contains the project of [2015 Pixnet hackathon](https://pixnethackathon2015.events.pixnet.net/). As the head of the social medias in Taiwan, Pixnet has a large amount of communities and users. This project aims to create a posting interface for group buying, including the profile, image and description of the buying goods.
+![We have six people.](https://drive.google.com/file/d/0BwCvXkk2FKhYa2F5TjlHQmpGbUU/view?usp=sharing)
